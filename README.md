@@ -6,4 +6,4 @@ This desktop calculator application can compute mathematical expressions and ret
 
 ## Known Issues
 
-This application does not currently support the use of variables (work in progress).
+- This application does not currently support the use of variables (work in progress).
